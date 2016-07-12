@@ -1,0 +1,64 @@
+<!ELEMENT r ( lics, e+ ) >
+
+<!ATTLIST r id CDATA #IMPLIED >
+<!ATTLIST r xmlns:xhtml CDATA #FIXED "http://www.w3.org/1999/xhtml"
+          xml:lang (smn) #REQUIRED >
+
+
+
+<!ELEMENT lics ( lic, ref*, sourcenote* )  >
+<!ATTLIST lics xml:space (default|preserve) 'preserve' >
+
+<!ELEMENT lic (#PCDATA|a)* >
+<!ATTLIST lic xml:lang (en) #IMPLIED >
+
+<!ELEMENT ref (#PCDATA|a|i)* >
+<!ELEMENT sourcenote (#PCDATA|a)* >
+
+<!ELEMENT a ( #PCDATA ) >
+<!ELEMENT i ( #PCDATA ) >
+
+<!ELEMENT e ( lg, mg+ ) >
+<!ATTLIST e reverse NMTOKEN #IMPLIED >
+
+<!ELEMENT l ( #PCDATA ) >
+<!ATTLIST l comment CDATA #IMPLIED >
+<!ATTLIST l nr ( Pl ) #IMPLIED >
+<!ATTLIST l pos ( A | Abbr | Adv | CC | CS | Clt | Interj | 
+                  N | Num | Pcle | Po | Pr | Pron | Qu | V | X ) #REQUIRED >
+<!ATTLIST l src NMTOKEN #IMPLIED >
+<!ATTLIST l stem ( 2syll | 3syll | weak ) #IMPLIED >
+<!ATTLIST l type NMTOKEN #IMPLIED >
+<!ATTLIST l val ( IV | TV ) #IMPLIED >
+<!ATTLIST l rest CDATA #IMPLIED >
+
+<!ELEMENT lg ( l, stem* ) >
+
+<!ELEMENT mg ( tg ) >
+
+
+<!ELEMENT syn ( #PCDATA ) >
+
+<!ELEMENT syng ( syn+ ) >
+
+<!ELEMENT t ( #PCDATA ) >
+<!ATTLIST t comment CDATA #IMPLIED >
+<!ATTLIST t gen ( f | m | n ) #IMPLIED >
+<!ATTLIST t nr ( Pl ) #IMPLIED >
+<!ATTLIST t pos ( A | Adv | CC | CS | Cp | Det | Interj | 
+                  N | Num | Po | Pr | Pron | V | X 
+) #REQUIRED >
+<!ATTLIST t t_type NMTOKEN #IMPLIED >
+<!ATTLIST t type ( Prop ) #IMPLIED >
+
+<!ELEMENT tg ( syng | t | xg )* >
+<!ATTLIST tg comment CDATA #IMPLIED >
+<!ATTLIST tg re CDATA #IMPLIED >
+<!ATTLIST tg xml:lang ( sme ) #IMPLIED >
+
+<!ELEMENT x ( #PCDATA ) >
+
+<!ELEMENT xg ( x, xt ) >
+
+<!ELEMENT xt ( #PCDATA ) >
+
