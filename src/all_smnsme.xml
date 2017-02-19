@@ -1722,7 +1722,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Foc_ba">ba</l>
+         <l pos="Pcle">ba</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1742,7 +1742,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Foc_ba">uvgs</l>
+         <l pos="Pcle">uvgs</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1752,7 +1752,7 @@
    </e>
    <e>
       <lg>
-         <l pos="">-uv</l>
+         <l pos="Pcle">-uv</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1762,7 +1762,7 @@
    </e>
    <e>
       <lg>
-         <l pos="">gin</l>
+         <l pos="Pcle">gin</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1772,7 +1772,7 @@
    </e>
    <e>
       <lg>
-         <l pos="">gin</l>
+         <l pos="Pcle">gin</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1782,7 +1782,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Foc_gis">gis</l>
+         <l pos="Pcle">gis</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1792,7 +1792,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Foc_gis">gis</l>
+         <l pos="Pcle">gis</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1812,7 +1812,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Foc_han">hân</l>
+         <l pos="Pcle">hân</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1822,7 +1822,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Foc_han">hân</l>
+         <l pos="Pcle">hân</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1832,7 +1832,7 @@
    </e>
    <e>
       <lg>
-         <l pos="">-uv</l>
+         <l pos="Pcle">-uv</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1842,7 +1842,7 @@
    </e>
    <e>
       <lg>
-         <l pos="">nii</l>
+         <l pos="Pcle">nii</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1852,7 +1852,7 @@
    </e>
    <e>
       <lg>
-         <l pos="">sun</l>
+         <l pos="Pcle">sun</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
