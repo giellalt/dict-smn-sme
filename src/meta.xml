@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Contains technical, language independent info used by Risten2 -->
+<dictmeta>
+
+  <!-- The ID string for the dictionary -->
+  <id>smnsme</id>
+
+  <!-- The natural language name(s) for the dictionary -->
+  <name xml:lang="no">Enaresamisk-nordsamisk ordbok</name>
+
+  <!-- Whether the dictionary should be publicly visible or not: -->
+  <public>yes</public>
+
+  <!-- License and copyright: -->
+  <license>Uspesifisert</license>
+  <copyright>Uspesifisert</copyright>
+
+  <!-- Short, free description -->
+  <description xml:lang="no">
+    <p>Ordboka er utvikla av Giellatekno, som del av
+    prosjektet maskinoversetting mellom samiske språk. Grunnlaget for ordboka
+    var Giellateknos Nordsamisk-finske ordbok (som bygger bla. på ordsamlinga
+    Álgu) og Marja-Liisa Olthuis og Taarna Valtonens finsk-enaresamiske ordbok
+    (finansiert av det finske Sametinget).</p>
+  </description>
+  
+  <!-- List of languages supported by the dictionary. -->
+  <!-- Each language is identified with ISO 639-2 three-letter codes. -->
+  <!-- Only one source language allowed, but multiple target languages are ok. -->
+  <langs>
+    <srclang>smn</srclang>
+    <trglang>sme</trglang>
+  </langs>
+</dictmeta>
