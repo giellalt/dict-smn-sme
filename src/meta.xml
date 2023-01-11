@@ -3,7 +3,7 @@
 <dictmeta>
 
   <!-- The ID string for the dictionary -->
-  <id>smnsme</id>
+  <id>gtsmnsme</id>
 
   <!-- The natural language name(s) for the dictionary -->
   <name xml:lang="no">Enaresamisk-nordsamisk ordbok</name>
@@ -23,7 +23,7 @@
     Álgu) og Marja-Liisa Olthuis og Taarna Valtonens finsk-enaresamiske ordbok
     (finansiert av det finske Sametinget).</p>
   </description>
-  
+
   <!-- List of languages supported by the dictionary. -->
   <!-- Each language is identified with ISO 639-2 three-letter codes. -->
   <!-- Only one source language allowed, but multiple target languages are ok. -->
