@@ -17499,7 +17499,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">kerjideijee</l>
+         <l pos="N" spec="NomAg">kerjideijee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -18799,7 +18799,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">ráppájeijee</l>
+         <l pos="N" spec="NomAg">ráppájeijee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -18879,7 +18879,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">tärhisteijee</l>
+         <l pos="N" spec="NomAg">tärhisteijee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -18924,7 +18924,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">tárkkojeijee</l>
+         <l pos="N" spec="NomAg">tárkkojeijee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -19074,7 +19074,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">nuotâsteijee</l>
+         <l pos="N" spec="NomAg">nuotâsteijee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -19184,7 +19184,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">miäcásteijee</l>
+         <l pos="N" spec="NomAg">miäcásteijee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -19509,7 +19509,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">jyeigee</l>
+         <l pos="N" spec="NomAg">jyeigee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -19594,7 +19594,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">ässee</l>
+         <l pos="N" spec="NomAg">ässee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -20109,7 +20109,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">aalmugovdâsteijee</l>
+         <l pos="N" spec="NomAg">aalmugovdâsteijee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -21074,7 +21074,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">oovdâstmannee</l>
+         <l pos="N" spec="NomAg">oovdâstmannee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -21334,7 +21334,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">luvâldâllee</l>
+         <l pos="N" spec="NomAg">luvâldâllee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -22594,7 +22594,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">vuáláčällee</l>
+         <l pos="N" spec="NomAg">vuáláčällee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -23024,7 +23024,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">siisâvärrejeijee</l>
+         <l pos="N" spec="NomAg">siisâvärrejeijee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -23044,7 +23044,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">puáttee</l>
+         <l pos="N" spec="NomAg">puáttee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -23304,7 +23304,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">saavâjođetteijee</l>
+         <l pos="N" spec="NomAg">saavâjođetteijee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -24429,7 +24429,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">ellee</l>
+         <l pos="N" spec="NomAg">ellee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -24944,7 +24944,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">kielâtorvočällee</l>
+         <l pos="N" spec="NomAg">kielâtorvočällee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -26194,7 +26194,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">maajeeldpuáttee</l>
+         <l pos="N" spec="NomAg">maajeeldpuáttee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -26654,7 +26654,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">uáppee</l>
+         <l pos="N" spec="NomAg">uáppee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -26699,7 +26699,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">uásiväldee</l>
+         <l pos="N" spec="NomAg">uásiväldee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -26939,7 +26939,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">párnáimáttáátteijee</l>
+         <l pos="N" spec="NomAg">párnáimáttáátteijee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -27444,7 +27444,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">sorvâpivdee</l>
+         <l pos="N" spec="NomAg">sorvâpivdee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -28239,7 +28239,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">išedeijee</l>
+         <l pos="N" spec="NomAg">išedeijee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -28319,7 +28319,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">virgehaldâšeijee</l>
+         <l pos="N" spec="NomAg">virgehaldâšeijee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -29674,7 +29674,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">stivrejeijee</l>
+         <l pos="N" spec="NomAg">stivrejeijee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -29749,7 +29749,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">paččee</l>
+         <l pos="N" spec="NomAg">paččee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -29954,7 +29954,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">pargee</l>
+         <l pos="N" spec="NomAg">pargee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -29964,7 +29964,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">pargoadeleijee</l>
+         <l pos="N" spec="NomAg">pargoadeleijee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -31039,7 +31039,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">pivdee</l>
+         <l pos="N" spec="NomAg">pivdee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -31369,7 +31369,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">puásuituállee</l>
+         <l pos="N" spec="NomAg">puásuituállee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -32679,7 +32679,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">palvâleijee</l>
+         <l pos="N" spec="NomAg">palvâleijee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -33089,7 +33089,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">tahhee</l>
+         <l pos="N" spec="NomAg">tahhee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -33459,7 +33459,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">tiettee</l>
+         <l pos="N" spec="NomAg">tiettee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -33754,7 +33754,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">totkee</l>
+         <l pos="N" spec="NomAg">totkee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -33859,7 +33859,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">toimâtteijee</l>
+         <l pos="N" spec="NomAg">toimâtteijee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -33899,7 +33899,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">tuállee</l>
+         <l pos="N" spec="NomAg">tuállee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -34804,7 +34804,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">tánssájeijee</l>
+         <l pos="N" spec="NomAg">tánssájeijee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -36304,7 +36304,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">keččee</l>
+         <l pos="N" spec="NomAg">keččee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -36459,7 +36459,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e xpos="xxx">
       <lg>
-         <l pos="N">kiäsutteijee</l>
+         <l pos="N" spec="NomAg">kiäsutteijee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -36499,7 +36499,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">kevttee</l>
+         <l pos="N" spec="NomAg">kevttee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -36944,7 +36944,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">kištottellee</l>
+         <l pos="N" spec="NomAg">kištottellee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -36989,7 +36989,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">kirdee</l>
+         <l pos="N" spec="NomAg">kirdee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -37034,7 +37034,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">kirječällee</l>
+         <l pos="N" spec="NomAg">kirječällee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -37649,7 +37649,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">kovvejeijee</l>
+         <l pos="N" spec="NomAg">kovvejeijee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -37819,7 +37819,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">kuldâleijee</l>
+         <l pos="N" spec="NomAg">kuldâleijee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -37829,7 +37829,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">kullee</l>
+         <l pos="N" spec="NomAg">kullee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -37874,7 +37874,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">kyeddee</l>
+         <l pos="N" spec="NomAg">kyeddee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -39489,7 +39489,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">sárnoo</l>
+         <l pos="N" spec="NomAg">sárnoo</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -39624,7 +39624,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">škovlimčällee</l>
+         <l pos="N" spec="NomAg">škovlimčällee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -39699,7 +39699,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">ärdee</l>
+         <l pos="N" spec="NomAg">ärdee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -39719,7 +39719,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">hárjuttellee</l>
+         <l pos="N" spec="NomAg">hárjuttellee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -40439,7 +40439,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">jurgâleijee</l>
+         <l pos="N" spec="NomAg">jurgâleijee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -40594,7 +40594,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">jyehhee</l>
+         <l pos="N" spec="NomAg">jyehhee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -40759,7 +40759,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">jämmee</l>
+         <l pos="N" spec="NomAg">jämmee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -41254,7 +41254,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">toimâttâhpargee</l>
+         <l pos="N" spec="NomAg">toimâttâhpargee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -41779,7 +41779,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">lohhee</l>
+         <l pos="N" spec="NomAg">lohhee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -42134,7 +42134,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">uárnejeijee</l>
+         <l pos="N" spec="NomAg">uárnejeijee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -42474,7 +42474,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">läđđee</l>
+         <l pos="N" spec="NomAg">läđđee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -43564,7 +43564,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">mađhâšeijee</l>
+         <l pos="N" spec="NomAg">mađhâšeijee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -44154,7 +44154,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">njyevvee</l>
+         <l pos="N" spec="NomAg">njyevvee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -44559,7 +44559,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">luámutteijee</l>
+         <l pos="N" spec="NomAg">luámutteijee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -44624,7 +44624,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">occee</l>
+         <l pos="N" spec="NomAg">occee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -44844,7 +44844,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">uástee</l>
+         <l pos="N" spec="NomAg">uástee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -45329,7 +45329,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">uđâsässee</l>
+         <l pos="N" spec="NomAg">uđâsässee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -46799,7 +46799,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">vyebdee</l>
+         <l pos="N" spec="NomAg">vyebdee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -46899,7 +46899,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">raavâadeleijee</l>
+         <l pos="N" spec="NomAg">raavâadeleijee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -46924,7 +46924,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">haldâšeijee</l>
+         <l pos="N" spec="NomAg">haldâšeijee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -47824,7 +47824,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">pille-ellee</l>
+         <l pos="N" spec="NomAg">pille-ellee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -48494,7 +48494,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">pođgee</l>
+         <l pos="N" spec="NomAg">pođgee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -49079,7 +49079,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">särnideijee</l>
+         <l pos="N" spec="NomAg">särnideijee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -49644,7 +49644,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">valastâllee</l>
+         <l pos="N" spec="NomAg">valastâllee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -49919,7 +49919,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">käččee</l>
+         <l pos="N" spec="NomAg">käččee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -50139,7 +50139,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">vyeijee</l>
+         <l pos="N" spec="NomAg">vyeijee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -50254,7 +50254,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">vyeittee</l>
+         <l pos="N" spec="NomAg">vyeittee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -50824,7 +50824,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">uáivičällee</l>
+         <l pos="N" spec="NomAg">uáivičällee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -50989,7 +50989,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">väzzee</l>
+         <l pos="N" spec="NomAg">väzzee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -51434,7 +51434,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">ärbejeijee</l>
+         <l pos="N" spec="NomAg">ärbejeijee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -51664,7 +51664,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">äššitobdee</l>
+         <l pos="N" spec="NomAg">äššitobdee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -52149,7 +52149,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">čorgejeijee</l>
+         <l pos="N" spec="NomAg">čorgejeijee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -52199,7 +52199,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">čyeigee</l>
+         <l pos="N" spec="NomAg">čyeigee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -52309,7 +52309,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">čuávvoo</l>
+         <l pos="N" spec="NomAg">čuávvoo</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -52474,7 +52474,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">čällee</l>
+         <l pos="N" spec="NomAg">čällee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -52824,7 +52824,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">ovdâsteijee</l>
+         <l pos="N" spec="NomAg">ovdâsteijee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -53194,7 +53194,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">patâreijee</l>
+         <l pos="N" spec="NomAg">patâreijee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -53234,7 +53234,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">tuođâšteijee</l>
+         <l pos="N" spec="NomAg">tuođâšteijee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -53314,7 +53314,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">kyelipivdee</l>
+         <l pos="N" spec="NomAg">kyelipivdee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -53324,7 +53324,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">kuálásteijee</l>
+         <l pos="N" spec="NomAg">kuálásteijee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -53349,7 +53349,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">kuáđutteijee</l>
+         <l pos="N" spec="NomAg">kuáđutteijee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -53394,7 +53394,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">västideijee</l>
+         <l pos="N" spec="NomAg">västideijee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -53444,7 +53444,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">jođetteijee</l>
+         <l pos="N" spec="NomAg">jođetteijee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -53619,7 +53619,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">njuárusteijee</l>
+         <l pos="N" spec="NomAg">njuárusteijee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -53629,7 +53629,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">máttáátteijee</l>
+         <l pos="N" spec="NomAg">máttáátteijee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -53649,7 +53649,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">omâsteijee</l>
+         <l pos="N" spec="NomAg">omâsteijee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -53924,7 +53924,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">čuojâtteijee</l>
+         <l pos="N" spec="NomAg">čuojâtteijee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -53934,7 +53934,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">čájáttellee</l>
+         <l pos="N" spec="NomAg">čájáttellee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -56594,7 +56594,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="N">kašmârdeijee</l>
+         <l pos="N" spec="NomAg">kašmârdeijee</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
