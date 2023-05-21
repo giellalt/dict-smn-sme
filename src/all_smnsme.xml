@@ -58205,6 +58205,36 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    <e>
       <lg>
          <l pos="Pron">mun</l>
+         <analysis>Pron_Pers_Sg1_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Pers_Sg1_Nom">
+               <wordform>mun</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg1_Gen">
+               <wordform>muu</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg1_Acc">
+               <wordform>muu</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg1_Ill">
+               <wordform>munjin</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg1_Loc">
+               <wordform>must</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg1_Com">
+               <wordform>muin</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg1_Abe">
+               <wordform>muuttáá</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg1_Ess">
+               <wordform>munen</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg1_Par">
+               <wordform>muđe</wordform>
+            </analysis>
+         </mini_paradigm>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -58215,6 +58245,36 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    <e>
       <lg>
          <l pos="Pron">tun</l>
+         <analysis>Pron_Pers_Sg2_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Pers_Sg2_Nom">
+               <wordform>tun</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg2_Gen">
+               <wordform>tuu</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg2_Acc">
+               <wordform>tuu</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg2_Ill">
+               <wordform>tunjin</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg2_Loc">
+               <wordform>tust</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg2_Com">
+               <wordform>tuin</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg2_Abe">
+               <wordform>tuuttáá</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg2_Ess">
+               <wordform>tunen</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg2_Par">
+               <wordform>tuđe</wordform>
+            </analysis>
+         </mini_paradigm>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -58225,10 +58285,280 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    <e>
       <lg>
          <l pos="Pron">sun</l>
+         <analysis>Pron_Pers_Sg3_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Pers_Sg3_Nom">
+               <wordform>sun</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg3_Gen">
+               <wordform>suu</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg3_Acc">
+               <wordform>suu</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg3_Ill">
+               <wordform>sunjin</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg3_Loc">
+               <wordform>sust</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg3_Com">
+               <wordform>suin</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg3_Abe">
+               <wordform>suuttáá</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg3_Ess">
+               <wordform>sunen</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Sg3_Par">
+               <wordform>suđe</wordform>
+            </analysis>
+         </mini_paradigm>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="Pron">son</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">muoi</l>
+         <analysis>Pron_Pers_Du1_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Pers_Du1_Nom">
+               <wordform>muoi</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du1_Gen">
+               <wordform>munnuu</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du1_Acc">
+               <wordform>munnuu</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du1_Ill">
+               <wordform>munnui</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du1_Loc">
+               <wordform>munnust</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du1_Com">
+               <wordform>munnuin</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du1_Abe">
+               <wordform>munnuuttáá</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du1_Ess">
+               <wordform>munnun</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du1_Par">
+               <wordform>munnud</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron">moai</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">tuoi</l>
+         <analysis>Pron_Pers_Du2_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Pers_Du2_Nom">
+               <wordform>tuoi</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du2_Gen">
+               <wordform>tunnuu</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du2_Acc">
+               <wordform>tunnuu</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du2_Ill">
+               <wordform>tunnui</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du2_Loc">
+               <wordform>tunnust</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du2_Com">
+               <wordform>tunnuin</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du2_Abe">
+               <wordform>tunnuuttáá</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du2_Ess">
+               <wordform>tunnun</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du2_Par">
+               <wordform>tunnud</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron">doai</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">suoi</l>
+         <analysis>Pron_Pers_Du3_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Pers_Du3_Nom">
+               <wordform>suoi</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du3_Gen">
+               <wordform>sunnuu</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du3_Acc">
+               <wordform>sunnuu</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du3_Ill">
+               <wordform>sunnui</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du3_Loc">
+               <wordform>sunnust</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du3_Com">
+               <wordform>sunnuin</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du3_Abe">
+               <wordform>sunnuuttáá</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du3_Ess">
+               <wordform>sunnun</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du3_Par">
+               <wordform>sunnud</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron">soai</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">mij</l>
+         <analysis>Pron_Pers_Pl1_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Pers_Pl1_Nom">
+               <wordform>mij</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl1_Gen">
+               <wordform>mii</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl1_Acc">
+               <wordform>mii</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl1_Ill">
+               <wordform>mijjân</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl1_Loc">
+               <wordform>mist</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl1_Com">
+               <wordform>miiguin</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl1_Abe">
+               <wordform>miittáá</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl1_Ess">
+               <wordform>minen</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl1_Par">
+               <wordform>miđe</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron">mii</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">tij</l>
+         <analysis>Pron_Pers_Pl2_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Pers_Pl2_Nom">
+               <wordform>tij</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl2_Gen">
+               <wordform>tii</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl2_Acc">
+               <wordform>tii</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl2_Ill">
+               <wordform>tijjân</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl2_Loc">
+               <wordform>tist</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl2_Com">
+               <wordform>tiiguin</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl2_Abe">
+               <wordform>tiittáá</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl2_Ess">
+               <wordform>tinen</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl2_Par">
+               <wordform>tiđe</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron">dii</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron">sij</l>
+         <analysis>Pron_Pers_Pl3_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Pers_Pl3_Nom">
+               <wordform>sij</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl3_Gen">
+               <wordform>sii</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl3_Acc">
+               <wordform>sii</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl3_Ill">
+               <wordform>sijjân</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl3_Loc">
+               <wordform>sist</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl3_Com">
+               <wordform>siiguin</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl3_Abe">
+               <wordform>siittáá</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl3_Ess">
+               <wordform>sinen</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Pl3_Par">
+               <wordform>siđe</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron">sii</t>
          </tg>
       </mg>
    </e>
