@@ -68806,13 +68806,8 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e xpos="xxx">
       <lg>
-         <l pos="V" spec="PrsPrc">kuullâđ¹</l>
+         <l pos="V" hid="Hom1" spec="PrsPrc">kuullâđ</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" spec="Sem_Dummytag.Attr">gullevaš</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="V" spec="TV">gullat</t>
@@ -71741,7 +71736,7 @@ For the full license text, see the link above.</lic><ref>Work by Giellatekno and
    </e>
    <e>
       <lg>
-         <l pos="V">kuullâđ</l>
+         <l hid="Hom2" pos="V">kuullâđ</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
